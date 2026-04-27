@@ -1,6 +1,6 @@
 # ⚡ Live Price Aggregator
 
-**[🚀 Click here to try the Live Web App!](YOUR_STREAMLIT_APP_LINK_HERE)**
+**[🚀 Click here to try the Live Web App!](https://gaurav28r-live--app-hdhdog.streamlit.app/)**
 
 An intelligent, real-time e-commerce price comparison engine built with Python and Streamlit. This tool bypasses traditional, fragile web scrapers by utilizing the Google Shopping API to fetch live market data from verified Indian retailers like Amazon, Flipkart, Croma, and Reliance Digital.
 
